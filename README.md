@@ -1,8 +1,9 @@
 # Meiling's Data Analysis Profolio
 ##### This file includes a list of simplified case studies I have done. For more information of the process, please visit each case study links. Thank you!
 
-## Case Study 1: How Does a Bike-Share Navigate Speedy Success?
-#### Hypothesis:  Company's future success depends on maximizing the number of annual membership.
+## [Case Study 1: How Does a Bike-Share Navigate Speedy Success?](https://drive.google.com/file/d/1w6pHtff_TktzUQE3tY6yJsJhdtN_MO0k/view?usp=sharing)
+#### Hypothesis:  
+Company's future success depends on maximizing the number of annual membership.
 
 #### Question: 
 How casual riders and members use Cyclistic bikes differently?
