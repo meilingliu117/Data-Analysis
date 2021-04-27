@@ -9,5 +9,5 @@ Question: How casual riders and members user Cyclistic bikes differently?
 ![GitHub Logo](/CaseStudy1_images/Number of Rides on each day of week.JPG)
 ![GitHub Logo](/CaseStudy1_images/Average ride length.JPG)
 
-<img src="/CaseStudy1_images/Number of Rides on each day of week.JPG" width="100">
+<img src="CaseStudy1_images/Number of Rides on each day of week.JPG" width="100">
 
