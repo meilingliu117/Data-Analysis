@@ -6,5 +6,6 @@ Hypothesis: Company's future success depends on maximizing the number of annual 
 
 Question: How casual riders and members user Cyclistic bikes differently?
 
-
+![GitHub Logo](/CaseStudy1_images/Number of Rides on each day of week.JPG)
+![GitHub Logo](/CaseStudy1_images/Average ride length.JPG)
 
