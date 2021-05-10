@@ -11,7 +11,7 @@ The ultimate prompt of this case study is to find ways to expand Olist. Since Ol
   3.	Increase customers satisfaction
   
 ##### Increase varieties of popular items
-![number of items sold vs number of distinct items](/CaseStudy1_images/categories-number of items sold vs number of distinct items.jpg)
+![number of items sold vs number of distinct items](/CaseStudy1_images/categories-number of items sold vs number of distinct items.JPG)
 
 
 
