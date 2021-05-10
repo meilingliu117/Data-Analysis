@@ -1,7 +1,7 @@
 # Meiling's Data Analysis Profolio
-##### This file includes a list of simplified case studies I have done. For more information of the process, please visit each case study links. Thank you!
+##### For more information of interested case study, please visit corresponding case study links. Thank you!
 
-## Case Study 1: Brazilian E-Commerce Public Dataset by Olist From Kaggle
+## [Case Study 1: Brazilian E-Commerce Public Dataset by Olist From Kaggle](https://drive.google.com/file/d/1iOBllXiCrNJ_HzoHUcwQBiX4sq_aagEw/view?usp=sharing)
 
 #### Prompt 1: Predict future sales
 
