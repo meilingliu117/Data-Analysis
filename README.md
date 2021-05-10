@@ -12,15 +12,19 @@ The ultimate prompt of this case study is to find ways to expand Olist. Since Ol
   3.	Increase customers satisfaction
   
 **Increase varieties of popular items**
+
 ![number of items sold vs number of distinct items](/CaseStudy1_images/categories-number of items sold vs number of distinct items.JPG)
 
 
 **Excite customers with discounts**
+
 ![category which month for discount](/CaseStudy1_images/category which month for discount.JPG)
 
 
 **Increase customers satisfaction**
+
 ![sql_commentscript](/CaseStudy1_images/sql_commentscript.JPG)
+
 ![sql_commentsection](/CaseStudy1_images/sql_commentsection.JPG)
 
 
